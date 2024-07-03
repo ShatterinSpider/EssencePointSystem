@@ -15,6 +15,7 @@ T.I.T.S
 |5  = 600|
 |20 = 1200|
 |50 = 1500|
+
 Command List - Main Variables !aki, !floof
 | Command List                    | Commands (With or Without Spaces)                                       |
 | ------------------------------ | -------------------------------------------- |
