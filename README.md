@@ -6,15 +6,16 @@ Using Streamerbot's Multi-Platform Point System to create a Interactive Stream E
 Command List - Main Variables !aki, !floof
 | Command List                    | Commands (With or Without Spaces)                                       |
 | ------------------------------ | -------------------------------------------- |
-| Color Toggle (Affects Model and Mascot or both)   ```color = cyan, green, blue, purple```                        | ```!colorall, !color all, "!floof/!aki" color, !color "floof/aki" ``` |
+|500 Essence - Color Toggle (Affects Model and Mascot or both)   ```color = cyan, green, blue, purple```                        | ```!colorall, !color all, "!floof/!aki" color, !color "floof/aki" ``` |
 | Endpoint                       | `wss://youtube.redeems.live/ws`                     |
 | Auto Connect on Startup        | ✅                                           |
 | Reconnect on Disconnect        | ✅                                           |
 | TLS (tick the following boxes) | ✅ `TLS 1.0`<br>✅ `TLS 1.1`<br>✅ `TLS 1.2` |
 | Retry Interval                 | `5 seconds`                                  |
 
-| Actions      |                                 |
+| Clear    |      Clears Colors and Effects                           |
 | ------------ | ------------------------------- |
-| Connected    | `Set Channel Rewards`           |
-| Disconnected | `NONE`                          |
-| Message      | `Execute Channel Reward Redeem` |
+|750 Essence |                                   |
+|- Colors    | ```!clear color, !clearcolor, !colorclear, !color clear, !clear colors, !clearcolors, !colosrclear, !colors clear```           |
+| - Effects | `NONE`                          |
+| 1000 - Clear All   | `!clear` |
