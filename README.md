@@ -7,8 +7,8 @@ Command List - Main Variables !aki, !floof
 | Command List                    | Commands (With or Without Spaces)                                       |
 | ------------------------------ | -------------------------------------------- |
 |500 Essence - Color Toggle (Affects Model and Mascot or both)   ```color = cyan, green, blue, purple```                        | ```!colorall, !color all, "!floof/!aki" color, !color "floof/aki" ``` |
-| Endpoint                       | `wss://youtube.redeems.live/ws`                     |
-| Auto Connect on Startup        | ✅                                           |
+| 700 Essence - Aki/Floof Effects                    | `!aki/floof "wide, long, big, smol'`                     |
+|   1000 Essence - Group Effects |       `!poster, !warp, !cell, !drunk, !aura, !toon`                                   |
 | Reconnect on Disconnect        | ✅                                           |
 | TLS (tick the following boxes) | ✅ `TLS 1.0`<br>✅ `TLS 1.1`<br>✅ `TLS 1.2` |
 | Retry Interval                 | `5 seconds`                                  |
