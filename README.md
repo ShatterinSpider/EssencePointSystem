@@ -4,9 +4,9 @@ Using Streamerbot's Multi-Platform Point System to create a Interactive Stream E
 ---
 
 Command List - Main Variables !aki, !floof
-| Command List                    | Commands                                       |
+| Command List                    | Commands (With or Without Spaces)                                       |
 | ------------------------------ | -------------------------------------------- |
-| Color Toggle (Affects Model and Mascot or both)   ```cyan, green, blue, purple```                        |     !aki ```color```, !floof ```color```, !```color```aki, !```color```floof, !```color``` aki, !```color``` floof,!aki ```color```, !floof ```color```, !```color```all, !```color``` all                       |
+| Color Toggle (Affects Model and Mascot or both)   ```cyan, green, blue, purple```                        | '''!colorall, !color all, "!floof/!aki" color, !color "floof/aki" ``` |
 | Endpoint                       | `wss://youtube.redeems.live/ws`                     |
 | Auto Connect on Startup        | ✅                                           |
 | Reconnect on Disconnect        | ✅                                           |
