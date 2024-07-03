@@ -6,7 +6,7 @@ Using Streamerbot's Multi-Platform Point System to create a Interactive Stream E
 Command List - Main Variables !aki, !floof
 | Command List                    | Commands                                       |
 | ------------------------------ | -------------------------------------------- |
-| Sapphire Toggle (Affects Model and Mascot or both)                           |     !aki blue, !floof blue, !blueaki, !bluefloof,                         |
+| Sapphire Toggle (Affects Model and Mascot or both)                           |     !aki blue, !floof blue, !blueaki, !bluefloof, !blue aki, !blue floof,!aki blue, !floof blue, !blueall, !blue all                       |
 | Endpoint                       | `wss://youtube.redeems.live/ws`                     |
 | Auto Connect on Startup        | ✅                                           |
 | Reconnect on Disconnect        | ✅                                           |
