@@ -18,4 +18,4 @@ Command List - Main Variables !aki, !floof
 |750 Essence |                                   |
 |- Colors    | ```!clear color, !clearcolor, !colorclear, !color clear, !clear colors, !clearcolors, !colosrclear, !colors clear```           |
 | - Effects | `!clearfx. !cleareffects, !clear fx, !clear effects, !fxclear, !fx clear, !effectsclear, !effects clear, !effectclear, !effect clear, !clear effect, !cleareffect`                          |
-| 1000 - Clear All   | `!clear` |
+| 1000 Essence - Clear All   | `!clear` |
