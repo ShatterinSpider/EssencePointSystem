@@ -3,4 +3,18 @@ Using Streamerbot's Multi-Platform Point System to create a Interactive Stream E
 
 ---
 
-Command List
+Command List - Main Variables !aki, !floof
+| Command List                    | Commands                                       |
+| ------------------------------ | -------------------------------------------- |
+| Sapphire Toggle (Affects Model and Mascot or both)                           |     !aki blue, !floof blue, !blueaki, !bluefloof,                         |
+| Endpoint                       | `wss://youtube.redeems.live/ws`                     |
+| Auto Connect on Startup        | ✅                                           |
+| Reconnect on Disconnect        | ✅                                           |
+| TLS (tick the following boxes) | ✅ `TLS 1.0`<br>✅ `TLS 1.1`<br>✅ `TLS 1.2` |
+| Retry Interval                 | `5 seconds`                                  |
+
+| Actions      |                                 |
+| ------------ | ------------------------------- |
+| Connected    | `Set Channel Rewards`           |
+| Disconnected | `NONE`                          |
+| Message      | `Execute Channel Reward Redeem` |
