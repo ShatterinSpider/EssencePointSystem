@@ -15,6 +15,8 @@ T.I.T.S
 |5  = 600|
 |20 = 1200|
 |50 = 1500|
+|!poke: Throws pokemon and pokeballs = 350|
+|!pill: Throw chill pills = 350|
 
 Command List - Main Variables !aki, !floof
 | Command List                    | Commands (With or Without Spaces)                                       |
