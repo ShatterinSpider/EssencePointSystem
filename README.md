@@ -20,8 +20,8 @@ T.I.T.S
 |!poke: Throws pokemon and pokeballs = 350|
 |!pill: Throw chill pills = 350|
 
-Command List - Main Variables !aki, !floof
-| Command List                    | Commands (With or Without Spaces)                                       |
+| Command List 
+Main Variables !aki, !floof | Commands (With or Without Spaces)                                       |
 | ------------------------------ | -------------------------------------------- |
 |500 Essence - Color Toggle (Affects Model and Mascot or both)   ```color = cyan, green, blue, purple```                        | ```!colorall, !color all, "!floof/!aki" color, !color "floof/aki" ``` |
 | 700 Essence - Aki/Floof Effects                    | `!aki/floof "wide, long, big, smol'`                     |
