@@ -26,7 +26,6 @@ Command List - Main Variables !aki, !floof
 |   1000 Essence - Group Effects |       `!warp, !cell, !drunk, !aura, !toon`                                   |
 | 100 Essence - Cheap Effects (Pixel is Aki only)      | `!poster, !scary, !block, !pixel, !aki/floof rgb `                                           |
 
-| ------------ | ------------------------------- |
 |  Sound FX !sfx ```sound```, !soundfx ```sound``` |    ```wow, bruh```                       |
 | ------------ | ------------------------------- |
 
