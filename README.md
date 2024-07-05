@@ -3,6 +3,7 @@ Using Streamerbot's Multi-Platform Point System to create a Interactive Stream E
 
 ---
 Basic Commands -
+|-------------------------------|
 !help - Redirects user to this page
 !points, !essence - Displays amount of Essence you have
 !rank, !leaderboard - Displays the rankings for who has more essence
