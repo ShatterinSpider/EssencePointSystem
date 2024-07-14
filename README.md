@@ -27,8 +27,14 @@ T.I.T.S
 |   1000 Essence - Group Effects |       `!warp, !cell, !drunk, !aura, !toon`                                   |
 | 100 Essence - Cheap Effects (Pixel is Aki only)      | `!poster, !scary, !block, !pixel, !aki/floof rgb `                                           |
 
-|  Sound FX !sfx ```sound```, !soundfx ```sound``` |    ```wow, bruh, sus1, sus2, cricket, snas, fail1, fail2, fart, FBI, gnome, gojo, discord, meow1, meow2, roll, rizz, sniff, giveup, stupid1, stupid2```                       |
-| ------------ | ------------------------------- |
+
+| Visual FX | !vfx ```fx```, !visualfx ```fx```  |
+------------- | -------------
+| 1500 Essence | ```crt, earthquake```|
+
+| Sound FX | !sfx ```sound```, !soundfx ```sound``` |
+------------- | -------------
+| 1250 Essence |```wow, bruh, sus1, sus2, cricket, snas, fail1, fail2, fart, FBI, gnome, gojo, discord, meow1, meow2, roll, rizz, sniff, giveup, stupid1, stupid2```                       |
 
 | Clear    |      Clears Colors and Effects                           |
 | ------------ | ------------------------------- |
