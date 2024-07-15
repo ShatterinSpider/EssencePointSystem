@@ -30,7 +30,7 @@ T.I.T.S
 
 | Visual FX | !vfx ```fx```, !visualfx ```fx```  |
 ------------- | -------------
-| 1500 Essence | ```crt, earthquake, cartoon```|
+| 1500 Essence | ```crt, earthquake, cartoon, crash, ghost```|
 | 1000 Essence | !freeze ```down, left, 1, 2```|
 
 
