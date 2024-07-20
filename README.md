@@ -9,10 +9,14 @@ Basic Commands -
 !rank, !leaderboard - Displays the rankings for who has more essence
 !vote (Number) - Vote between the number of choices Ex: !vote 1
 
+Advance Commands 
+|-------------------------------|
+1000 Essence - !```Drop```, !`G` - In most games my drop command is G, so this will force me to drop what I'm holding
+
+
 T.I.T.S
 |-------------------------------|
 `!throw #, !toss # - 1, 5 20, 50` 
-|-------------------------------|
 |1  = 350|
 |5  = 600|
 |20 = 1200|
