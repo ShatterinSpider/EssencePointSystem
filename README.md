@@ -27,7 +27,7 @@ T.I.T.S
 | Command List Main Variables !aki, !floof | Commands (With or Without Spaces)                                       |
 | ------------------------------ | -------------------------------------------- |
 |500 Essence - Color Toggle (Affects Model and Mascot or both)   ```color = cyan, green, blue, purple```                        | ```!colorall, !color all, "!floof/!aki" color, !color "floof/aki" ``` |
-| 700 Essence - Aki/Floof Effects                    | `!aki/floof "wide, long, big, smol'`, !aki ```bald, sad, Souless, scary1, scary2, headless, gone, aha, sonic, broken```                     |
+| 700 Essence - Aki/Floof Effects                    | `!aki/floof "wide, long, big, smol'`, !aki ```bald, sad, Souless, scary1, scary2, headless, gone, aha, sonic, broken, stand, game```                     |
 |   1000 Essence - Group Effects |       `!warp, !cell, !drunk, !aura, !toon`                                   |
 | 100 Essence - Cheap Effects (Pixel is Aki only)      | `!poster, !scary, !block, !pixel, !aki/floof rgb `                                           |
 
