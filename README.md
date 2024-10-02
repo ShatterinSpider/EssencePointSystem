@@ -2,12 +2,24 @@
 Using Streamerbot's Multi-Platform Point System to create a Interactive Stream Equal to Twitch on YouTube! All redeems are done by using command prompts, no Chrome Extension Needed! This is my public build of it, to back up my current code of it and to display the command list for viewers.
 
 ---
-Basic Commands -
+Basic Commands 
 |-------------------------------|
 !help - Redirects user to this page
 !points, !essence - Displays amount of Essence you have
 !rank, !leaderboard - Displays the rankings for who has more essence
 !vote (Number) - Vote between the number of choices Ex: !vote 1
+
+---
+Free Commands 
+|-------------------------------|
+!drop - Presses G to drop a Items (Valorant, Minecraft)
+!Foward - Presses W
+!backward - Presses S
+!left - Presses A
+!right - Presses D
+!interact - Presses E & R
+!jump - Pressess (SpaceBar)
+!item(1-5) = Presses 1-5 (NO Spaces! Ex: !item1)
 
 Advance Commands 
 |-------------------------------|
