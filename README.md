@@ -14,7 +14,7 @@ Free Commands
 |-------------------------------|
 !drop - Presses G to drop a Items (Valorant, Minecraft)
 !Foward - Presses W
-!backward - Presses S
+!backward, !backwards - Presses S
 !left - Presses A
 !right - Presses D
 !interact - Presses E & R
