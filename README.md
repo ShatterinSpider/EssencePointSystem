@@ -43,7 +43,7 @@ Free Commands
 |   1000 Essence - Group Effects |       `!warp, !cell, !drunk, !aura, !toon`                                   |
 | 100 Essence - Cheap Effects (Pixel is Aki only)      | `!poster, !scary, !block, !pixel, !aki/floof rgb `                                           |
 | 50 Essence - !hydrate, !stretch, !posture |
-| 1250 Essence - !araara, !uwu, !glasses (takes glasses off for 5 mins), !doodle |
+| 1250 Essence - !araara, !uwu, !glasses (takes glasses off for 5 mins) |
 
 
 | Visual FX | !vfx ```fx```, !visualfx ```fx```  |
