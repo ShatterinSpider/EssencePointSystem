@@ -23,11 +23,6 @@ Free Commands
 !leftclick, !shoot - Presses Left Click
 !rightclick - Presses Right click
 
-Advance Commands 
-|-------------------------------|
-1000 Essence - !```Drop```, !`G` - In most games my drop command is G, so this will force me to drop what I'm holding
-Floof Bot 500 Essence - !```ask, speak, teach```, !floof speak
-
 T.I.T.S
 |-------------------------------|
 `!throw #, !toss # - 1, 5 20, 50` 
