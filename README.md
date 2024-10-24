@@ -8,16 +8,18 @@ Basic Commands
 !points, !essence - Displays amount of Essence you have
 !rank, !leaderboard - Displays the rankings for who has more essence
 !vote (Number) - Vote between the number of choices Ex: !vote 1
+
 T.I.T.S
 |-------------------------------|
 `!throw #, !toss # - 1, 5 20, 50` 
-|1  = 350|
+|1  = 0|
 |5  = 600|
 |20 = 1200|
 |50 = 1500|
 |!poke: Throws pokemon and pokeballs = 350|
 |!pill: Throw chill pills = 350|
 ---
+
 Free Commands 
 |-------------------------------|
 !drop - Presses G to drop a Items (Valorant, Minecraft)
@@ -30,6 +32,7 @@ Free Commands
 !item(1-5) = Presses 1-5 (NO Spaces! Ex: !item1)
 !leftclick, !shoot - Presses Left Click
 !rightclick - Presses Right click
+!toss, !throw - Throws 1 random object at Aki
 
 
 
