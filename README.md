@@ -42,7 +42,8 @@ Free Commands
 | 700 Essence - Aki/Floof Effects                    | `!aki/floof "wide, long, big, smol'`, !aki ```bald, sad, Souless, scary1, scary2, headless, gone, aha, sonic, broken, stand, game```                     |
 |   1000 Essence - Group Effects |       `!warp, !cell, !drunk, !aura, !toon`                                   |
 | 100 Essence - Cheap Effects (Pixel is Aki only)      | `!poster, !scary, !block, !pixel, !aki/floof rgb `                                           |
-| 50 Essence - !hydrate, !stretch, !posture, !araara |
+| 50 Essence - !hydrate, !stretch, !posture |
+| 1250 Essence - !araara, !uwu, !glasses (takes glasses off for 5 mins), !doodle |
 
 
 | Visual FX | !vfx ```fx```, !visualfx ```fx```  |
