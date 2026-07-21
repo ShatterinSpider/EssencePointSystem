@@ -7,7 +7,6 @@ Basic Commands
 !help - Redirects user to this page
 !points, !essence - Displays amount of Essence you have
 !rank, !leaderboard - Displays the rankings for who has more essence
-!vote (Number) - Vote between the number of choices Ex: !vote 1
 
 T.I.T.S
 |-------------------------------|
