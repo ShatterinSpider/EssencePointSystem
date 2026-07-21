@@ -30,9 +30,8 @@ Free Commands
 !interact - Presses E & R
 !jump - Pressess (SpaceBar)
 !item(1-5) = Presses 1-5 (NO Spaces! Ex: !item1)
-!leftclick, !shoot - Presses Left Click
-!rightclick - Presses Right click
 !toss, !throw - Throws 1 random object at Aki
+Quack
 
 
 
